@@ -2,3 +2,5 @@ Bienvenido a mi nueva historia.
 
 Yo soy Camilo Torres
 tengo 24 años y estudio ingenieria de sistemas.
+
+Estamos en el años 2022 y me estoy enfocando en el estudio para desarrollador fullstack.
